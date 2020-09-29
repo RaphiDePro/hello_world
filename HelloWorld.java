@@ -5,5 +5,9 @@ public class HelloWorld{
     public HelloWorld() {
         this.counter = 0;
     }
+
+    public int getCounter() {
+        return this.counter;
+    }
     
 }
