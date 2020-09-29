@@ -9,5 +9,9 @@ public class HelloWorld{
     public int getCounter() {
         return this.counter;
     }
+
+    public void setCounter(int counter){
+        this.counter = counter;
+    }
     
 }
